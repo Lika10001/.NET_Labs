@@ -1,0 +1,15 @@
+D:\jet rider\projects\Lab3\Task1\bin\Debug\net7.0\Task1.exe
+D:\jet rider\projects\Lab3\Task1\bin\Debug\net7.0\Task1.deps.json
+D:\jet rider\projects\Lab3\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\jet rider\projects\Lab3\Task1\bin\Debug\net7.0\Task1.dll
+D:\jet rider\projects\Lab3\Task1\bin\Debug\net7.0\Task1.pdb
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.dll
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\refint\Task1.dll
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.pdb
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\jet rider\projects\Lab3\Task1\obj\Debug\net7.0\ref\Task1.dll

@@ -1,0 +1,15 @@
+D:\jet rider\projects\Lab5\DynamicList\bin\Debug\net7.0\DynamicList.exe
+D:\jet rider\projects\Lab5\DynamicList\bin\Debug\net7.0\DynamicList.deps.json
+D:\jet rider\projects\Lab5\DynamicList\bin\Debug\net7.0\DynamicList.runtimeconfig.json
+D:\jet rider\projects\Lab5\DynamicList\bin\Debug\net7.0\DynamicList.dll
+D:\jet rider\projects\Lab5\DynamicList\bin\Debug\net7.0\DynamicList.pdb
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.GeneratedMSBuildEditorConfig.editorconfig
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.AssemblyInfoInputs.cache
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.AssemblyInfo.cs
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.dll
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\refint\DynamicList.dll
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.pdb
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\DynamicList.genruntimeconfig.cache
+D:\jet rider\projects\Lab5\DynamicList\obj\Debug\net7.0\ref\DynamicList.dll

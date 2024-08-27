@@ -1,0 +1,11 @@
+D:\jet rider\projects\Lab1\ConverterTester\bin\Debug\ConverterTester.dll
+D:\jet rider\projects\Lab1\ConverterTester\bin\Debug\ConverterTester.pdb
+D:\jet rider\projects\Lab1\ConverterTester\bin\Debug\Lab1.exe
+D:\jet rider\projects\Lab1\ConverterTester\bin\Debug\nunit.framework.dll
+D:\jet rider\projects\Lab1\ConverterTester\bin\Debug\Lab1.pdb
+D:\jet rider\projects\Lab1\ConverterTester\bin\Debug\nunit.framework.xml
+D:\jet rider\projects\Lab1\ConverterTester\obj\Debug\ConverterTester.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab1\ConverterTester\obj\Debug\ConverterTester.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab1\ConverterTester\obj\Debug\ConverterTester.csproj.CopyComplete
+D:\jet rider\projects\Lab1\ConverterTester\obj\Debug\ConverterTester.dll
+D:\jet rider\projects\Lab1\ConverterTester\obj\Debug\ConverterTester.pdb

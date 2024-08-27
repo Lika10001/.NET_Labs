@@ -1,0 +1,11 @@
+D:\jet rider\projects\Lab1\PolynomialTester\bin\Debug\PolynomialTester.dll
+D:\jet rider\projects\Lab1\PolynomialTester\bin\Debug\PolynomialTester.pdb
+D:\jet rider\projects\Lab1\PolynomialTester\bin\Debug\Lab1.exe
+D:\jet rider\projects\Lab1\PolynomialTester\bin\Debug\nunit.framework.dll
+D:\jet rider\projects\Lab1\PolynomialTester\bin\Debug\Lab1.pdb
+D:\jet rider\projects\Lab1\PolynomialTester\bin\Debug\nunit.framework.xml
+D:\jet rider\projects\Lab1\PolynomialTester\obj\Debug\PolynomialTester.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab1\PolynomialTester\obj\Debug\PolynomialTester.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab1\PolynomialTester\obj\Debug\PolynomialTester.csproj.CopyComplete
+D:\jet rider\projects\Lab1\PolynomialTester\obj\Debug\PolynomialTester.dll
+D:\jet rider\projects\Lab1\PolynomialTester\obj\Debug\PolynomialTester.pdb

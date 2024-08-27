@@ -1,0 +1,15 @@
+D:\jet rider\projects\Lab5\ParallelWaitAll\bin\Debug\net7.0\ParallelWaitAll.exe
+D:\jet rider\projects\Lab5\ParallelWaitAll\bin\Debug\net7.0\ParallelWaitAll.deps.json
+D:\jet rider\projects\Lab5\ParallelWaitAll\bin\Debug\net7.0\ParallelWaitAll.runtimeconfig.json
+D:\jet rider\projects\Lab5\ParallelWaitAll\bin\Debug\net7.0\ParallelWaitAll.dll
+D:\jet rider\projects\Lab5\ParallelWaitAll\bin\Debug\net7.0\ParallelWaitAll.pdb
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.GeneratedMSBuildEditorConfig.editorconfig
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.AssemblyInfoInputs.cache
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.AssemblyInfo.cs
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.dll
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\refint\ParallelWaitAll.dll
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.pdb
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ParallelWaitAll.genruntimeconfig.cache
+D:\jet rider\projects\Lab5\ParallelWaitAll\obj\Debug\net7.0\ref\ParallelWaitAll.dll

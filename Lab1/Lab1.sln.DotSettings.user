@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02be703e_002Dafe5_002D4df9_002D9f80_002Ded224345fdf5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F7DA50AE-E03D-4D36-B7EF-D76EAD55BF18::.NETFramework,Version=v4.8::ConverterTester.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AAF94BA5-B9A3-451B-8C4F-D62832C1D852::.NETFramework,Version=v4.8::PolynomialTester.Tests.Divide_ReturnsTrueForCorrectResultGreaterDegree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AAF94BA5-B9A3-451B-8C4F-D62832C1D852::.NETFramework,Version=v4.8::PolynomialTester.Tests.Divide_ReturnsTrueForCorrectResultSameDegree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AAF94BA5-B9A3-451B-8C4F-D62832C1D852::.NETFramework,Version=v4.8::PolynomialTester.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

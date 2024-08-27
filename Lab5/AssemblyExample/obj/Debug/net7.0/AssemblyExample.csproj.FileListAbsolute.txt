@@ -1,0 +1,15 @@
+D:\jet rider\projects\Lab5\AssemblyExample\bin\Debug\net7.0\AssemblyExample.exe
+D:\jet rider\projects\Lab5\AssemblyExample\bin\Debug\net7.0\AssemblyExample.deps.json
+D:\jet rider\projects\Lab5\AssemblyExample\bin\Debug\net7.0\AssemblyExample.runtimeconfig.json
+D:\jet rider\projects\Lab5\AssemblyExample\bin\Debug\net7.0\AssemblyExample.dll
+D:\jet rider\projects\Lab5\AssemblyExample\bin\Debug\net7.0\AssemblyExample.pdb
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.AssemblyInfoInputs.cache
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.AssemblyInfo.cs
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.dll
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\refint\AssemblyExample.dll
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.pdb
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\AssemblyExample.genruntimeconfig.cache
+D:\jet rider\projects\Lab5\AssemblyExample\obj\Debug\net7.0\ref\AssemblyExample.dll

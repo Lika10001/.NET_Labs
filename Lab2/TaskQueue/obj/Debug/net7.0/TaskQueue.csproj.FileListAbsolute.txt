@@ -1,0 +1,15 @@
+D:\jet rider\projects\Lab2\TaskQueue\bin\Debug\net7.0\TaskQueue.exe
+D:\jet rider\projects\Lab2\TaskQueue\bin\Debug\net7.0\TaskQueue.deps.json
+D:\jet rider\projects\Lab2\TaskQueue\bin\Debug\net7.0\TaskQueue.runtimeconfig.json
+D:\jet rider\projects\Lab2\TaskQueue\bin\Debug\net7.0\TaskQueue.dll
+D:\jet rider\projects\Lab2\TaskQueue\bin\Debug\net7.0\TaskQueue.pdb
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.csproj.AssemblyReference.cache
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.AssemblyInfoInputs.cache
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.AssemblyInfo.cs
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.csproj.CoreCompileInputs.cache
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.dll
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\refint\TaskQueue.dll
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.pdb
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\TaskQueue.genruntimeconfig.cache
+D:\jet rider\projects\Lab2\TaskQueue\obj\Debug\net7.0\ref\TaskQueue.dll
